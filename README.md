@@ -26,8 +26,6 @@ pkg install nano
 
 git clone https://github.com/Emclub/botLineEm
 
-Nano Tes.py    (Edit MID)
-
 cd botLineEm
 
 PYThon3 Tes.py
